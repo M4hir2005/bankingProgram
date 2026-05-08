@@ -1,4 +1,4 @@
-A simple baking program
+A simple banking program
 
 This program took me a little bit of time and had a few errors which I had to fix but i managed to learn how to better implement methods.
 
